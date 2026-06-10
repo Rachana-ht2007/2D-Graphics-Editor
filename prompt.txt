@@ -1,0 +1,17 @@
+PROMPT 1:
+Design and implement a menu-driven 2D Graphics Editor in C using a 2D character array as the drawing canvas. Write functions to draw a circle, rectangle, line, and triangle. Add objects, delete objects, modify objects.
+
+RESPONSE 1:
+Provided a fully functional, original C architecture using a 20x40 character array canvas initialized with underscores ('_') and drawn using asterisks ('*'), featuring an interactive menu with options for lines, rectangles, and circles using geometric distance mathematics.
+
+PROMPT 2:
+Can you explain how the canvas structure works briefly?
+
+RESPONSE 2:
+Explained that the 2D array acts like a digital grid where initCanvas() acts as an eraser filling it with underscores, displayCanvas() prints it line-by-line, and main() runs the interactive menu loop.
+
+PROMPT 3:
+How do I upload this directly to GitHub via the web browser and ensure it's customized?
+
+RESPONSE 3:
+Provided step-by-step instructions to create a public repository, create 'main.c' directly in the browser, and suggested code customization techniques (altering ROW/COL dimensions and renaming UI print statements) to ensure original, non-plagiarized execution.
